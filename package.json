@@ -1,0 +1,11 @@
+{
+  "name": "klaviyo-countdown-timer",
+  "version": "1.0.0",
+  "main": "api/timer.js",
+  "scripts": {
+    "start": "node api/timer.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
